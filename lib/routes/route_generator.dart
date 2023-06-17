@@ -6,7 +6,7 @@ import 'package:simple_invoice/ui/screens/create_invoice_page.dart';
 import 'package:simple_invoice/ui/screens/home_page.dart';
 import 'package:simple_invoice/ui/screens/preview_invoice_page.dart';
 import 'package:simple_invoice/ui/screens/sign_in_page.dart';
-import 'package:simple_invoice/ui/screens/update_profile.dart';
+import 'package:simple_invoice/ui/screens/update_profile_page.dart';
 
 import '../ui/screens/invoice_detail_page.dart';
 import '../ui/screens/sign_up_page.dart';
